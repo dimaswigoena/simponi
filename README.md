@@ -1,2 +1,2 @@
-# simponi
+# SIMPONI
 Sistem Pembelajaran Online
